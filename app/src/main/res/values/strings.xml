@@ -5,4 +5,6 @@
     <string name="nama">Nama</string>
     <string name="form_data">Form Data</string>
     <string name="submit_data_form">Submit Data Form</string>
+    <string name="data" />
+    <string name="kembali">Kembali</string>
 </resources>
