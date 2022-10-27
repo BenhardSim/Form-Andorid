@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">SimpleForm</string>
     <string name="tanggal_lahir">Tanggal Lahir</string>
-    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tempat_lahir">Kota Tempat Lahir</string>
     <string name="nama">Nama</string>
-    <string name="form_data">Form Data</string>
-    <string name="submit_data_form">Submit Data Form</string>
+    <string name="form_data">Form Data Profile</string>
+    <string name="submit_data_form">Masukkan Data</string>
     <string name="data" />
     <string name="kembali">Kembali</string>
 </resources>
