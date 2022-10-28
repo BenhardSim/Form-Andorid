@@ -28,7 +28,7 @@ class HasilActivity : AppCompatActivity(), View.OnClickListener {
         val tempat = intent.getStringExtra(EXTRA_TEMPAT)
         val tanggal = intent.getStringExtra(EXTRA_TGL)
 
-        val text = "Nama: $name \nLahir Di: $tempat Tanggal: $tanggal"
+        val text = "Nama: $name \nLahir Di: $tempat \nTanggal: $tanggal"
         tvDataReceived.text = text
     }
 
