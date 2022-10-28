@@ -7,4 +7,7 @@
     <string name="submit_data_form">Masukkan Data</string>
     <string name="data" />
     <string name="kembali">Kembali</string>
+    <string name="Judul">Selamat Datang di Aplikasi <b>SimpleForm</b></string>
+    <string name="tagline">Tempat Menyimpan Data Pribadi Anda</string>
+    <string name="Mulai">Mulai  !</string>
 </resources>
