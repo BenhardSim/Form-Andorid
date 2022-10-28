@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">SimpleForm</string>
-    <string name="tanggal_lahir">Tanggal Lahir</string>
-    <string name="tempat_lahir">Kota Tempat Lahir</string>
-    <string name="nama">Nama</string>
-    <string name="form_data">Form Data Profile</string>
-    <string name="submit_data_form">Masukkan Data</string>
+    <string name="tanggal_lahir">Date of Birth</string>
+    <string name="tempat_lahir">City of Birth</string>
+    <string name="nama">Name</string>
+    <string name="form_data">Profile Data Form</string>
+    <string name="submit_data_form"><b>Input The Data</b></string>
     <string name="data" />
-    <string name="kembali">Kembali</string>
+    <string name="kembali"><b>Back</b></string>
     <string name="Judul">Selamat Datang di Aplikasi <b>SimpleForm</b></string>
     <string name="tagline">Tempat Menyimpan Data Pribadi Anda</string>
-    <string name="Mulai">Mulai  !</string>
+    <string name="Mulai"><b>Start  !</b></string>
 </resources>
