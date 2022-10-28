@@ -15,10 +15,18 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         val btnSubmit: Button = findViewById(R.id.btn_submit)
         btnSubmit.setOnClickListener(this)
+
+        val btnBack: Button = findViewById(R.id.btn_kembali)
+        btnBack.setOnClickListener(this)
     }
 
     override fun onClick(v: View?) {
         when(v?.id){
+            R.id.btn_kembali->{
+                val moveMainHasilIntent = Intent(this@MainActivity, WelcomeActivity::class.java)
+                startActivity(moveMainHasilIntent)
+            }
+
             R.id.btn_submit -> {
                 val moveMainHasilIntent = Intent(this@MainActivity, HasilActivity::class.java)
                 val inputanNama: EditText = findViewById(R.id.input_nama)
