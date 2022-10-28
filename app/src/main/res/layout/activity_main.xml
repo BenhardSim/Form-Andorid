@@ -67,6 +67,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@id/btn_submit"
         android:backgroundTint="#FF0000"
+        android:textColor="@color/white"
         android:text="@string/kembali"/>
     <Button
         android:id="@+id/btn_submit"
