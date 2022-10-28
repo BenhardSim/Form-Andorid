@@ -4,10 +4,10 @@
     <string name="tempat_lahir">Kota Tempat Lahir</string>
     <string name="nama">Nama</string>
     <string name="form_data">Form Data Profile</string>
-    <string name="submit_data_form">Masukkan Data</string>
+    <string name="submit_data_form"><b>Masukkan Data</b></string>
     <string name="data" />
-    <string name="kembali">Kembali</string>
+    <string name="kembali"><b>Kembali</b></string>
     <string name="Judul">Selamat Datang di Aplikasi <b>SimpleForm</b></string>
     <string name="tagline">Tempat Menyimpan Data Pribadi Anda</string>
-    <string name="Mulai">Mulai  !</string>
+    <string name="Mulai"><b>Mulai  !</b></string>
 </resources>
